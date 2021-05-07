@@ -13,7 +13,7 @@
 <p>
   <b>Naver Boostcamp AI Tech :</b> <i>2021.01.18 ~</i>
   <br><br>
-  <b>Dacon - Motion Keypoint Detection Competition :</b> <i>Leaderboard Ranking 6th / <a href="https://github.com/hangjoo/dacon_key_point_detection">Git Repository</a> / <a href="https://dacon.io/competitions/official/235701/overview/description">Competition Page</a></i>
+  <b>Dacon - Motion Keypoint Detection Competition :</b> <i>Leaderboard Ranking 6th / <a href="https://github.com/hangjoo/dacon_key_point_detection">Github Repository</a> / <a href="https://dacon.io/competitions/official/235701/overview/description">Competition Page</a></i>
 </p>
 
 <h2 align="center"> Works </h2>
@@ -28,8 +28,9 @@
   <img src="https://img.shields.io/badge/NumPy-0123243?style=flat-square&logo=NumPy&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>
   <br>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=Microsoft%20Azure&logoColor=white"/></a>
+  <br>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 </p>
