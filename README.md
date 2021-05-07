@@ -2,8 +2,11 @@
 
 <h2 align="center"> About me </h2>  
 <p>
-  🧑 <b>Interests :</b> <i>Deep Learning / Computer Vision</i><br>
+  👨‍🎓 <b>Degree :</b> <i>Bachelor of Science</i>
+  <br><br>
   🖥️ <b>Major :</b> <i>Computer Science</i>
+  <br><br>
+  🧑 <b>Interests :</b> <i>Deep Learning / Computer Vision</i>
 </p>
 
 <h2 align="center"> Activities </h2>
