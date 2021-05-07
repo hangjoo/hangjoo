@@ -13,7 +13,7 @@
 <p>
   <b>Naver Boostcamp AI Tech :</b> <i>2021.01.18 ~</i>
   <br><br>
-  <b>Dacon - Motion Keypoint Detection Competition :</b> <i><a href="https://github.com/hangjoo/dacon_key_point_detection">Git Repository</a> / <a href="https://dacon.io/competitions/official/235701/overview/description">Competition Page</a></i>
+  <b>Dacon - Motion Keypoint Detection Competition :</b> <i>Leaderboard 6th. / <a href="https://github.com/hangjoo/dacon_key_point_detection">Git Repository</a> / <a href="https://dacon.io/competitions/official/235701/overview/description">Competition Page</a></i>
 </p>
 
 <h2 align="center"> Works </h2>
