@@ -18,7 +18,7 @@
 
 <h2 align="center"> Works </h2>
 <p>
-  <b>CartoonGAN Implement :</b> <i><a href="https://github.com/hangjoo/cartoonGAN_pytorch">Git Repository</a></i>
+  <b>CartoonGAN Implement :</b> <i><a href="https://github.com/hangjoo/cartoonGAN_pytorch">Github Repository</a></i>
 
 <h2 align="center"> Tech Stack </h2>  
 <p align="center">
