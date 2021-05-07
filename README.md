@@ -6,7 +6,7 @@
   <br><br>
   🖥️ <b>Major :</b> <i>Computer Science</i>
   <br><br>
-  🧑 <b>Interests :</b> <i>Deep Learning / Computer Vision</i>
+  🧑 <b>Interests :</b> <i>Deep Learning / Computer Vision / NLP / GAN / Object Detection / all about DL</i>
 </p>
 
 <h2 align="center"> Activities </h2>
