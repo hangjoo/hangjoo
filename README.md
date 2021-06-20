@@ -21,6 +21,8 @@
 <h2 align="center"> Works </h2>
 <p>
   <b>CartoonGAN Implement :</b> <i><a href="https://github.com/hangjoo/cartoonGAN_pytorch">Github Repository</a></i>
+  <br><br>
+  <b>LaTeX Mathematics Recognition :</b> <i><a href="https://github.com/hangjoo/Latex_Mathematics_Recognition">Github Repository</a></i>
 
 <h2 align="center"> Tech Stack </h2>  
 <p align="center">
