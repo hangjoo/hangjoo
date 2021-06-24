@@ -11,7 +11,7 @@
 
 <h2 align="center"> Activities </h2>
 <p>
-  <b>Naver Boostcamp AI Tech :</b> <i>2021.01.18 ~</i>
+  <b>Naver Boostcamp AI Tech :</b> <i>2021.01.18 ~ 2021.06.22</i>
   <br><br>
   <b>Dacon - Motion Keypoint Detection Competition :</b> <i>Final Ranking 6th / <a href="https://github.com/hangjoo/dacon_key_point_detection">Github Repository</a> / <a href="https://dacon.io/competitions/official/235701/overview/description">Competition Page</a></i>
   <br><br>
