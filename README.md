@@ -12,6 +12,6 @@
 
 ### Where do you find me?
 
-- 📧 **[G-mail](hyungjoo1470@gmail.com)**
+- 📧 **[G-mail](http://hyungjoo1470@gmail.com)**
 
 - ✏️ **[Blog](https://hangjo-o.tistory.com/)**
